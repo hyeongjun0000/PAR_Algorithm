@@ -1,5 +1,2 @@
 # PAR_Algorithm
-
-<br>
-
-OS Memory Replacement Policy Simulator
+Phase Aware Replacement
